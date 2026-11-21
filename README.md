@@ -46,7 +46,7 @@ cd ecommerce-product-data-analysis
 This project is licensed under the **MIT License** — feel free to fork, star, and use it for your learning or portfolio purposes.
 
 ## 👨‍💻 Author
-
+Devendra Patel
 
 
 Skills: Python | SQL | Power BI | Excel | Data Analysis | EDA
